@@ -3,7 +3,7 @@
 # Hi there, I'm Tony 👋
 ### Principal AI Systems Architect & Senior Full-Stack Engineer
 
-[![Live Architecture Portfolio](https://img.shields.io/badge/Live_Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=10b981)](https://research-dev-2025.github.io/portfolio/)
+[![Live Architecture Portfolio](https://img.shields.io/badge/Live_Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=10b981)](https://research-dev-2025.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoangthinh/)
 [![GitHub](https://img.shields.io/badge/GitHub-research--dev--2025-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/research-dev-2025)
 
@@ -11,7 +11,7 @@
   <em>First-principles software architect bridging enterprise full-stack & distributed systems with governed Agentic AI Operating Systems, custom Claude Model Context Protocol (MCP) servers, Hybrid pgvector RAG, and Shift-Left Cloud DevSecOps.</em>
 </p>
 
-[🌐 Explore Live Portfolio & 10-Hr Sandbox →](https://research-dev-2025.github.io/portfolio/)
+[🌐 Explore Live Portfolio & 10-Hr Sandbox →](https://research-dev-2025.github.io)
 
 ---
 
@@ -66,7 +66,7 @@
 
 ## 🌟 Featured Production Archetypes & Reference Blueprints
 
-Detailed schematics, execution pipelines, and first-10-hour trial deliverables available in the [Interactive Architecture Sandbox](https://research-dev-2025.github.io/portfolio/#credentials):
+Detailed schematics, execution pipelines, and first-10-hour trial deliverables available in the [Interactive Architecture Sandbox](https://research-dev-2025.github.io/#credentials):
 
 - **AI Business Operating System & Multi-Agent CRM** — Event-driven lead research, inbox triage, and automated financial document extraction with human-in-the-loop gates.
 - **Enterprise Hybrid RAG Gateway & Governed MCP Server** — Scoped RBAC tools, typed OpenAPI endpoints, and RAGAS accuracy regression test suites.
@@ -90,7 +90,7 @@ Detailed schematics, execution pipelines, and first-10-hour trial deliverables a
 
 Available for **Principal / Staff AI Architect** roles, fractional CTO advisory, or a structured **10-Hour Paid Architecture Sandbox Trial** delivering an audited blueprint and working production vertical slice in your repository.
 
-- 🌐 **Live Portfolio & CV**: [https://research-dev-2025.github.io/portfolio/](https://research-dev-2025.github.io/portfolio/)
+- 🌐 **Live Portfolio & CV**: [https://research-dev-2025.github.io](https://research-dev-2025.github.io)
 - 💼 **LinkedIn**: [linkedin.com/in/hoangthinh](https://www.linkedin.com/in/hoangthinh/)
 - 🐙 **GitHub**: [github.com/research-dev-2025](https://github.com/research-dev-2025)
-- ✉️ **Direct Contact**: Available via the [Portfolio Contact Form](https://research-dev-2025.github.io/portfolio/#contact)
+- ✉️ **Direct Contact**: Available via the [Portfolio Contact Form](https://research-dev-2025.github.io/#contact)
